@@ -91,6 +91,7 @@ footer{
     background-size: contain;
     background-repeat: no-repeat;
     background-position: center -50px;
+    overflow-y: scroll
   }
   .logo{
     width: 120px;
